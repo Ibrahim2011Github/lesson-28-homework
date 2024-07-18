@@ -1,0 +1,16 @@
+body{
+    margin: 0 auto;
+    padding: 0;
+}
+
+.inputs_and_button{
+    width: 20%;
+    height: 400px;
+
+}
+
+.click{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
